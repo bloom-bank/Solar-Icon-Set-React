@@ -1,5 +1,5 @@
 {
-  "name": "solar-icon-set",
+  "name": "@elevatepay/solar-icon-set",
   "version": "1.0.0",
   "description": "Solar Icon Set in react",
   "main": "dist/index.js",
